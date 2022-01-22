@@ -1,2 +1,2 @@
 # GoogleOauth
-Backend Code for GoogleOauth or Google Sign in Authentication using NodeJS and ExpressJS
+Backend Code for GoogleOauth or Google Signin Authentication using NodeJS and ExpressJS
